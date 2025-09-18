@@ -8,6 +8,14 @@ An interactive Next.js dashboard with a synthetic student dataset, exploratory a
   - Charts: Bar (skill vs score correlation), Scatter (attention vs performance), Radar (student profile)
   - Searchable/sortable student table
   - Insights section (top correlations, model R², personas)
+ 
+  ## ScreenShots
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/6240b992-f53b-4b71-aa5e-9928c48fa312" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-18 002813" src="https://github.com/user-attachments/assets/e23aa2de-1587-41af-a3b5-7f8cc253592c" />
+<img width="1919" height="1068" alt="Screenshot 2025-09-18 002824" src="https://github.com/user-attachments/assets/a73b1298-259a-401f-a4ab-2821778e7ab4" />
+<img width="1911" height="956" alt="Screenshot 2025-09-18 002835" src="https://github.com/user-attachments/assets/66ce16db-37b2-43a0-ad9b-18ec293b4ccc" />
+
 
 ## Quick Start (VS Code)
 
@@ -149,11 +157,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-## ScreenShots
-<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/6240b992-f53b-4b71-aa5e-9928c48fa312" />
-
-<img width="1919" height="1079" alt="Screenshot 2025-09-18 002813" src="https://github.com/user-attachments/assets/e23aa2de-1587-41af-a3b5-7f8cc253592c" />
-<img width="1919" height="1068" alt="Screenshot 2025-09-18 002824" src="https://github.com/user-attachments/assets/a73b1298-259a-401f-a4ab-2821778e7ab4" />
-<img width="1911" height="956" alt="Screenshot 2025-09-18 002835" src="https://github.com/user-attachments/assets/66ce16db-37b2-43a0-ad9b-18ec293b4ccc" />
 
 
